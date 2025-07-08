@@ -61,12 +61,23 @@ Each insight is supported with a clean SQL query and visualized using Python cha
 
 ## 📘 Visual Output
 
-📊 Chart Previews:
-- ![Sales by Sub-Category and Category](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Sales%20by%20Sub-Category%20and%20Category.png)
-- ![Profit Margin by Region](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Profit%20Margin%20(%25)%20by%20Region.png)
-- ![Segment-wise Sales Distribution](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Segment-wise%20Sales%20Distribution.png)
-- ![Monthly Sales by Category](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Monthly%20Sales%20by%20Category.png)
-- ![States with High Sales-Profit Difference](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/States%20with%20High%20Sales-Profit%20Difference.png)
+# 📊 Chart Previews:
+
+- **Sales by Sub-Category and Category**  
+  ![Sales by Sub-Category and Category](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Sales%20by%20Sub-Category%20and%20Category.png)
+
+- **Profit Margin by Region**  
+  ![Profit Margin by Region](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Profit%20Margin%20(%25)%20by%20Region.png)
+
+- **Segment-wise Sales Distribution**  
+  ![Segment-wise Sales Distribution](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Segment-wise%20Sales%20Distribution.png)
+
+- **Monthly Sales by Category**  
+  ![Monthly Sales by Category](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Monthly%20Sales%20by%20Category.png)
+
+- **States with High Sales–Profit Difference**  
+  ![States with High Sales-Profit Difference](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/States%20with%20High%20Sales-Profit%20Difference.png)
+
 
 ---
 
