@@ -61,7 +61,7 @@ Each insight is supported with a clean SQL query and visualized using Python cha
 
 ## 📘 Visual Output
 
-# 📊 Chart Previews:
+### 📊 Chart Previews:
 
 - **Sales by Sub-Category and Category**  
   ![Sales by Sub-Category and Category](https://github.com/Sourabh1710/Category-Performance-Regional-Sales-Trends-Analysis/blob/main/Charts/Sales%20by%20Sub-Category%20and%20Category.png)
