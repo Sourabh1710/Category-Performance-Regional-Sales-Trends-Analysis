@@ -1,8 +1,7 @@
 # 📊 Category Performance Regional Sales Trends Analysis (SQLite + Python)
 
-A complete sales and profitability analysis project using Python, SQLite, and Jupyter Notebook on the Superstore dataset.
 
----
+
 
 ## 📌 Project Overview
 
